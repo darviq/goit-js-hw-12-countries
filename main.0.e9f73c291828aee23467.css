@@ -1,0 +1,1 @@
+html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}img{display:block;border:1px solid #000}body{font-family:Roboto,sans-serif;font-size:20px;text-align:center}.container{display:flex;justify-content:space-around}.list{text-align:start;display:inline-block}.bold{font-weight:700}
